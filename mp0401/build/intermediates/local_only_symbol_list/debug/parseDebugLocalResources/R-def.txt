@@ -1,0 +1,25 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color white
+drawable dice1
+drawable dice2
+drawable dice3
+drawable dice4
+drawable dice5
+drawable dice6
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+id btnResult
+id btnSuffle
+id imgView1
+id imgView2
+id main
+id txtEdit
+id txtView
+layout activity_main
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+style Base.Theme.Mp2602
+style Theme.Mp2602

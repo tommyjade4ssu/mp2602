@@ -1,0 +1,8 @@
+com.example.mp0401-pngs-0 /Users/tommyjade/mp/mp2602/mp0401/build/generated/res/pngs/debug
+com.example.mp0401-updated_navigation_xml-1 /Users/tommyjade/mp/mp2602/mp0401/build/generated/updated_navigation_xml/debug
+com.example.mp0401-packageDebugResources-2 /Users/tommyjade/mp/mp2602/mp0401/build/intermediates/incremental/debug/packageDebugResources/merged.dir
+com.example.mp0401-packageDebugResources-3 /Users/tommyjade/mp/mp2602/mp0401/build/intermediates/incremental/debug/packageDebugResources/stripped.dir
+com.example.mp0401-debug-4 /Users/tommyjade/mp/mp2602/mp0401/build/intermediates/merged_res/debug/mergeDebugResources
+com.example.mp0401-debug-5 /Users/tommyjade/mp/mp2602/mp0401/src/debug/res
+com.example.mp0401-main-6 /Users/tommyjade/mp/mp2602/mp0401/src/main/res
+gradleHome-0 /Users/tommyjade/.gradle
