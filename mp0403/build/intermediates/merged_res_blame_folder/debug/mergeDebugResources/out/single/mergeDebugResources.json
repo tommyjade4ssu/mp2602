@@ -1,0 +1,98 @@
+[
+    {
+        "merged": "/Users/tommyjade/.gradle/daemon/9.4.1/com.example.mp0403-debug-39:/drawable_ic_launcher_background.xml.flat",
+        "source": "/Users/tommyjade/.gradle/daemon/9.4.1/com.example.mp0403-main-41:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "/Users/tommyjade/.gradle/daemon/9.4.1/com.example.mp0403-debug-39:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "/Users/tommyjade/.gradle/daemon/9.4.1/com.example.mp0403-main-41:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/tommyjade/.gradle/daemon/9.4.1/com.example.mp0403-debug-39:/drawable_body.png.flat",
+        "source": "/Users/tommyjade/.gradle/daemon/9.4.1/com.example.mp0403-main-41:/drawable/body.png"
+    },
+    {
+        "merged": "/Users/tommyjade/.gradle/daemon/9.4.1/com.example.mp0403-debug-39:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/Users/tommyjade/.gradle/daemon/9.4.1/com.example.mp0403-main-41:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "/Users/tommyjade/.gradle/daemon/9.4.1/com.example.mp0403-debug-39:/drawable_necklace1.png.flat",
+        "source": "/Users/tommyjade/.gradle/daemon/9.4.1/com.example.mp0403-main-41:/drawable/necklace1.png"
+    },
+    {
+        "merged": "/Users/tommyjade/.gradle/daemon/9.4.1/com.example.mp0403-debug-39:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/tommyjade/.gradle/daemon/9.4.1/com.example.mp0403-main-41:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/tommyjade/.gradle/daemon/9.4.1/com.example.mp0403-debug-39:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "/Users/tommyjade/.gradle/daemon/9.4.1/com.example.mp0403-main-41:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/tommyjade/.gradle/daemon/9.4.1/com.example.mp0403-debug-39:/layout_activity_main.xml.flat",
+        "source": "/Users/tommyjade/.gradle/daemon/9.4.1/com.example.mp0403-main-41:/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/tommyjade/.gradle/daemon/9.4.1/com.example.mp0403-debug-39:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "/Users/tommyjade/.gradle/daemon/9.4.1/com.example.mp0403-main-41:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/Users/tommyjade/.gradle/daemon/9.4.1/com.example.mp0403-debug-39:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/tommyjade/.gradle/daemon/9.4.1/com.example.mp0403-main-41:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/tommyjade/.gradle/daemon/9.4.1/com.example.mp0403-debug-39:/drawable_crown2.png.flat",
+        "source": "/Users/tommyjade/.gradle/daemon/9.4.1/com.example.mp0403-main-41:/drawable/crown2.png"
+    },
+    {
+        "merged": "/Users/tommyjade/.gradle/daemon/9.4.1/com.example.mp0403-debug-39:/drawable_dress3.png.flat",
+        "source": "/Users/tommyjade/.gradle/daemon/9.4.1/com.example.mp0403-main-41:/drawable/dress3.png"
+    },
+    {
+        "merged": "/Users/tommyjade/.gradle/daemon/9.4.1/com.example.mp0403-debug-39:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "/Users/tommyjade/.gradle/daemon/9.4.1/com.example.mp0403-main-41:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.mp0403-debug-39:/layout_activity_main.xml.flat",
+        "source": "com.example.mp0403-main-41:/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/tommyjade/.gradle/daemon/9.4.1/com.example.mp0403-debug-39:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "/Users/tommyjade/.gradle/daemon/9.4.1/com.example.mp0403-main-41:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/tommyjade/.gradle/daemon/9.4.1/com.example.mp0403-debug-39:/drawable_dress1.png.flat",
+        "source": "/Users/tommyjade/.gradle/daemon/9.4.1/com.example.mp0403-main-41:/drawable/dress1.png"
+    },
+    {
+        "merged": "/Users/tommyjade/.gradle/daemon/9.4.1/com.example.mp0403-debug-39:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/Users/tommyjade/.gradle/daemon/9.4.1/com.example.mp0403-main-41:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/Users/tommyjade/.gradle/daemon/9.4.1/com.example.mp0403-debug-39:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "/Users/tommyjade/.gradle/daemon/9.4.1/com.example.mp0403-main-41:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/tommyjade/.gradle/daemon/9.4.1/com.example.mp0403-debug-39:/drawable_crown1.png.flat",
+        "source": "/Users/tommyjade/.gradle/daemon/9.4.1/com.example.mp0403-main-41:/drawable/crown1.png"
+    },
+    {
+        "merged": "/Users/tommyjade/.gradle/daemon/9.4.1/com.example.mp0403-debug-39:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/tommyjade/.gradle/daemon/9.4.1/com.example.mp0403-main-41:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/tommyjade/.gradle/daemon/9.4.1/com.example.mp0403-debug-39:/drawable_dress2.png.flat",
+        "source": "/Users/tommyjade/.gradle/daemon/9.4.1/com.example.mp0403-main-41:/drawable/dress2.png"
+    },
+    {
+        "merged": "/Users/tommyjade/.gradle/daemon/9.4.1/com.example.mp0403-debug-39:/drawable_necklace2.png.flat",
+        "source": "/Users/tommyjade/.gradle/daemon/9.4.1/com.example.mp0403-main-41:/drawable/necklace2.png"
+    },
+    {
+        "merged": "/Users/tommyjade/.gradle/daemon/9.4.1/com.example.mp0403-debug-39:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/tommyjade/.gradle/daemon/9.4.1/com.example.mp0403-main-41:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/tommyjade/.gradle/daemon/9.4.1/com.example.mp0403-debug-39:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/tommyjade/.gradle/daemon/9.4.1/com.example.mp0403-main-41:/mipmap-xxhdpi/ic_launcher_round.webp"
+    }
+]
