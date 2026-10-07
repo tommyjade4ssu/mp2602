@@ -1,0 +1,20 @@
+com.example.mp0404
+color black
+color white
+drawable bg4
+drawable fish
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+drawable turtle
+id btnResult
+id imgView1
+id imgView2
+id main
+id txtEdit1
+id txtEdit2
+layout activity_main
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+style Base_Theme_Mp2602
+style Theme_Mp2602
